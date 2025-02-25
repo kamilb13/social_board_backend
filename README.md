@@ -33,7 +33,7 @@ Aplikacja typu tablica umożliwiająca użytkownikom rejestrację, logowanie, do
 1. **Klonowanie repozytorium**
    Aby sklonować repozytorium, użyj polecenia:
    ```bash
-   git clone https://github.com/TwojaNazwaUzytkownika/tablica-postow.git
+   git clone https://github.com/kamilb13/social_board_backend.git
 2. **Instalacja zależności**
 Przejdź do katalogów frontend i backend i zainstaluj wymagane zależności:
 3. **Frontend (Vue):**
