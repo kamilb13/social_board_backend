@@ -34,6 +34,9 @@ Aplikacja typu tablica umożliwiająca użytkownikom rejestrację, logowanie, do
    Aby sklonować repozytorium, użyj polecenia:
    ```bash
    git clone https://github.com/kamilb13/social_board_backend.git
+- Dla frontendu:
+   ```bash
+   git clone https://github.com/kamilb13/social_board_frontend.git
 2. **Instalacja zależności**
 Przejdź do katalogów frontend i backend i zainstaluj wymagane zależności:
 3. **Frontend (Vue):**
